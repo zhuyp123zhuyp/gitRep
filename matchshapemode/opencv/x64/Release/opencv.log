@@ -1,0 +1,51 @@
+﻿  opencv.cpp
+e:\matchshapemode\opencv\opencv.cpp(45): warning C4305: “初始化”: 从“double”到“float”截断
+e:\matchshapemode\opencv\opencv.cpp(51): warning C4305: “初始化”: 从“double”到“float”截断
+e:\matchshapemode\opencv\opencv.cpp(110): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(120): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+e:\matchshapemode\opencv\opencv.cpp(142): warning C4101: “temp”: 未引用的局部变量
+e:\matchshapemode\opencv\opencv.cpp(178): warning C4244: “参数”: 从“int”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+e:\matchshapemode\opencv\opencv.cpp(193): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\matchshapemode\opencv\opencv.cpp(216): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+e:\matchshapemode\opencv\opencv.cpp(267): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(278): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(314): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(315): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(318): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\matchshapemode\opencv\opencv.cpp(319): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\matchshapemode\opencv\opencv.cpp(390): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  正在生成代码
+  1 of 645 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv.vcxproj -> E:\matchshapemode\x64\Release\opencv.exe

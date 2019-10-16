@@ -1,0 +1,43 @@
+﻿  opencv.cpp
+e:\matchshapemode\opencv\opencv.cpp(45): warning C4305: “初始化”: 从“double”到“float”截断
+e:\matchshapemode\opencv\opencv.cpp(99): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(109): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+e:\matchshapemode\opencv\opencv.cpp(131): warning C4101: “temp”: 未引用的局部变量
+e:\matchshapemode\opencv\opencv.cpp(167): warning C4244: “参数”: 从“int”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+e:\matchshapemode\opencv\opencv.cpp(182): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\matchshapemode\opencv\opencv.cpp(205): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+e:\matchshapemode\opencv\opencv.cpp(253): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(289): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\matchshapemode\opencv\opencv.cpp(300): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\matchshapemode\opencv\opencv.cpp(301): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\matchshapemode\opencv\opencv.cpp(368): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  opencv.vcxproj -> E:\matchshapemode\x64\Debug\opencv.exe
